@@ -1,0 +1,21 @@
+ /* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,html,#root{
+  height: 100%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FAFAFB;
+
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #BDBDBD;
+}
+
